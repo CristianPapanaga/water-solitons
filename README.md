@@ -18,12 +18,11 @@ The [code and subsequent data analysis](water-solitons.ipynb) produced a number 
 
 Below is a sample of some of the more visually interesting figures produced as part of this work.
 
-![](images/overtake.jpg)
+![](images/Wave%20speed%20comparison.png)
 
-FIG. 9. (Top) Evolution of an initial disturbance A (run 2 in Table. I) of height $A$ = 0.05 m, length $B$ = 0.15 m, without
-collision with another solitary wave. (Middle) Evolution of an initial disturbance **B** (run 17 in Table. I) of height $A$ = 0.06 m,
-length $B$ = 0.1 m, without collision with another solitary wave. (Bottom) Evolution of both the larger (**A**) and smaller (**B**)
-solitary wave, launched one after the other as described in Sec. III - **A** overtakes **B** between the gauges.
+FIG. 7. Relative difference of the measured speed $c_{sp}$ from the characteristic speed $c_{0}$ versus the relative average amplitude
+$⟨η0⟩/h$ for a sample of 38 solitons (see Table. I) at a water depth $h$ = 0.06 m (note that only the largest soliton from each run
+was taken for simplicity). Theoretical is the prediction of Eq. 8.
 
 ![](images/kdvcomparison.png)
 
@@ -31,8 +30,9 @@ FIG. 8. The one-soliton KdV equation solution (Eq. 7) plotted (red) on top of ea
 the experiment, with $η_0$ adjusted to the observed max amplitude of the soliton. Waves reach gauge 0 first before continuing
 towards gauge 1; waves at each gauge are moving left to right.
 
-![](images/Wave%20speed%20comparison.png)
+![](images/overtake.jpg)
 
-FIG. 7. Relative difference of the measured speed $c_{sp}$ from the characteristic speed $c_{0}$ versus the relative average amplitude
-$⟨η0⟩/h$ for a sample of 38 solitons (see Table. I) at a water depth $h$ = 0.06 m (note that only the largest soliton from each run
-was taken for simplicity). Theoretical is the prediction of Eq. 8.
+FIG. 9. (Top) Evolution of an initial disturbance A (run 2 in Table. I) of height $A$ = 0.05 m, length $B$ = 0.15 m, without
+collision with another solitary wave. (Middle) Evolution of an initial disturbance **B** (run 17 in Table. I) of height $A$ = 0.06 m,
+length $B$ = 0.1 m, without collision with another solitary wave. (Bottom) Evolution of both the larger (**A**) and smaller (**B**)
+solitary wave, launched one after the other as described in Sec. III - **A** overtakes **B** between the gauges.
